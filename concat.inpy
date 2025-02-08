@@ -1,0 +1,7 @@
+import pandas as pd
+#read voiture scraper cv from csv from local file
+voitures = pd.read_csv("voitures_scrapees.csv")
+print(voitures["carburant"].value_counts())
+
+#nombre de voitures par carburant
+voitures["carburant"].value_counts().plot(kind='bar')

@@ -1,0 +1,101 @@
+marque,annee,prix,adresse,kilometrage,boite_vitesse,carburant,proprietaire
+Citroen,2016,5000000,"Thiès, Thiès",150000,Manuelle,Diesel,Bintou Sylla
+Mitsubishi,2016,9500000,"VDN, Dakar",115000,Automatique,Essence,Sokhna Faty
+Renault,2013,4000000,"Sud Foire, Dakar",260000,Manuelle,Diesel,Gm DK
+Rover,2017,15499000,"Médina, Dakar",54000,Automatique,Essence,Chasseur  Automobile
+Ford,2013,3950000,"Sud Foire, Dakar",80000,Automatique,Essence,Fatou  Kiné
+Nissan,2007,2200000,"Cambérène, Dakar",,Automatique,Diesel,Vendeur .
+Hyundai,2020,5000000,"Biscuiterie, Dakar",86500,Automatique,Essence,MOURAD ENNAJY
+Hyundai,2016,4000000,"Thiakar, Diourbel",88000,Automatique,Essence,MOURAD ENNAJY
+Toyota,2014,19500000,"Yoff, Dakar",20500,Manuelle,Diesel,Cheikh Ahmed Tidiane  SY
+Nissan,2016,8500000,"Keur Massar, Dakar",138000,Automatique,Essence,Makhou Diagne
+Dacia,2018,5500000,"Grand-Dakar, Dakar",60000,Manuelle,Essence,Daouda Fall
+Ford,2016,7000000,"Patte d'oie, Dakar",98900,Automatique,Essence,Bintou Sylla
+Ford,2013,30000,"Gueule-Tapée, Fass, Colobane, Dakar",50000,Automatique,Essence,Easy_Trip_ Sen
+Peugeot,2020,12000000,"Sud Foire, Dakar",42000,Automatique,Diesel,Zam  Ndoye
+Volkswagen,2013,5500000,"Médina, Dakar",69000,Manuelle,Essence,Easy_Trip_ Sen
+Mazda,2007,2900000,"Sicap Foire, Dakar",160000,Automatique,Essence,Mamadou DIOP
+Hyundai,2015,6500000,"Liberté 6, Dakar",100000,Automatique,Essence,Cheikh  Mbacké
+Mitsubishi,2010,6500000,"Mbao, Dakar",172000,Manuelle,Diesel,Ibrahima DIEDHIOU
+Ford,2011,3300000,"Liberté 6, Dakar",150000,Automatique,Essence,Cheikh  Mbacké
+Ford,2011,4300,"Hlm, Dakar",140000,Automatique,Essence,Cheikh  Mbacké
+Peugeot,2016,4000000,"Sicap Dieuppeul, Dakar",100000,Automatique,Diesel,MOURAD ENNAJY
+Ford,2013,5200000,"Ouakam, Dakar",130000,Automatique,Essence,Yaya SOUMARE
+Kia,2013,4400000,"Liberté 6 extension, Dakar",94234,Automatique,Essence,francoise diouf
+Ford,2012,2800000,"Mbao, Dakar",120000,Automatique,Essence,Cheikh  Mbacké
+Jeep,2019,NC,"VDN, Dakar",10000,Manuelle,Diesel,Mouls Fall
+Hyundai,2016,5200000,"Grand-Dakar, Dakar",183633,Automatique,Essence,cheikh ndiaye
+Volkswagen,2018,15000000,"Scat Urbam, Dakar",190000,Automatique,Essence,Mouhamed Cisse
+Volkswagen,2013,5000000,"Gueule-Tapée, Fass, Colobane, Dakar",150000,Manuelle,Essence,Easy_Trip_ Sen
+Hyundai,2013,30000,"Gueule-Tapée, Fass, Colobane, Dakar",150000,Automatique,Essence,Easy_Trip_ Sen
+Hyundai,2018,10000000,"Grand-Yoff, Dakar",97000,Automatique,Essence,Papi Ndiaye
+Ford,2011,4500000,"Mamelles, Dakar",165508,Automatique,Essence,bara ndiaye
+Toyota,2020,13500000,"Rufisque, Dakar",50792,Automatique,Essence,cheikh ndiaye
+Peugeot,2022,14000000,"Point-E, Dakar",22000,Automatique,,Abdoul  Abdoul
+Ford,2012,2700000,"Parcelles Assainies, Dakar",156000,Automatique,Essence,Zal DIATTA
+Mercedes,2012,2500000,"Sokone, Fatick",150000,Automatique,Diesel,MBAYE Papa momar
+Mitsubishi,2011,7500000,"Yoff, Dakar",135000,Manuelle,Diesel,Atlys Atlys
+Volkswagen,2013,3000000,"Djily Mbaye, Dakar",110000,Automatique,Essence,Demba Badiane
+Ford,2013,4000000,"VDN, Dakar",120000,Automatique,Essence,Ndiaga Ndoye
+Toyota,2019,20000000,"Rufisque, Dakar",54000,Manuelle,Diesel,Ndiaga Ndoye
+Renault,2016,9500000,"Sicap Sacré Coeur, Dakar",79000,Automatique,Essence,Aziz  Pro
+Hyundai,2017,8500000,"Hann Maristes, Dakar",218,Automatique,Essence,Khadi Diop
+Kia,2016,7000000,"VDN, Dakar",84000,Automatique,Essence,joan-yves Darys  Anguilet
+Ford,2017,5000000,"Hlm, Dakar",17000,Automatique,Diesel,Mohamed Falilou FALL
+Chevrolet,2016,6000000,"Plateau, Dakar",1,Automatique,Essence,joan-yves Darys  Anguilet
+Toyota,1994,2000000,"Liberté 6 extension, Dakar",1230000,Manuelle,Diesel,Tapha KANE
+Chevrolet,2016,7000000,"Lac Rose, Dakar",98000,Automatique,Essence,Jeena Ba
+Mitsubishi,2010,7000000,"Mbao, Dakar",133333,Manuelle,Diesel,Ibrahima DIEDHIOU
+Toyota,2007,3800,"VDN, Dakar",1,Manuelle,Diesel,Mouhamed Gueye
+Mercedes,2013,8000000,"Touba, Diourbel",90008,Automatique,Diesel,Cherif  DIOP
+Toyota,2019,17500000,"Plateau, Dakar",1497,Automatique,Essence,Rassoul Automobiles
+Citroen,2010,2600000,"Thiaroye-sur-Mer, Dakar",100000,Manuelle,Diesel,GABYAUTO GAYE
+Ford,2013,6500000,"Plateau, Dakar",151000,Manuelle,Diesel,Rassoul Automobiles
+Fiat,2022,8000000,"Touba, Diourbel",31000,Manuelle,Essence,Dieng  Serigne
+Citroen,2012,3300000,"Mbao, Dakar",138000,Manuelle,Essence,Elhaj djiby  Thiam
+Kia,2017,11800000,"Yoff, Dakar",160000,Automatique,Diesel,INSA LAYE DIOP
+Hyundai,2017,12000000,"Plateau, Dakar",80000,Automatique,Diesel,Rassoul Automobiles
+Mercedes,2012,4500000,"VDN, Dakar",70000,Automatique,Essence,Cherif  DIOP
+Citroen,2017,6500000,"Plateau, Dakar",80000,Automatique,Diesel,Rassoul Automobiles
+Honda,2010,2500000,"Mbour, Thiès",198000,Manuelle,Essence,Rassoul Automobiles
+Peugeot,2008,4000000,"Ouakam, Dakar",190000,Manuelle,Diesel,Claire Dubroca
+Hyundai,2011,2800000,"Gueule-Tapée, Fass, Colobane, Dakar",180000,Automatique,Essence,ABDOULAYE DIALLO
+Hyundai,2016,5700000,"Sicap Dieuppeul, Dakar",190000,Automatique,Essence,Fallou MBAYE
+Bmw,2016,12200000,"Cité Keur gorgui, Dakar",1,Automatique,Essence,Rose  DIOMPY
+Range,2018,31000000,"Sicap Sacré Coeur, Dakar",61000,Automatique,Essence,Rose  DIOMPY
+Honda,2023,26000000,"Sicap Sacré Coeur, Dakar",19000,Automatique,Essence,Rose  DIOMPY
+Ford,2013,4000000,"Grand-Yoff, Dakar",170000,Automatique,Essence,TIDIANE BA
+Mazda,2018,15000000,"Point-E, Dakar",140000,Automatique,Diesel,Rose  DIOMPY
+Ford,2016,5900000,"Gueule-Tapée, Fass, Colobane, Dakar",102000,Automatique,Essence,Rose  DIOMPY
+Ford,2013,2200000,"Parcelles Assainies, Dakar",115000,Automatique,Essence,Rose  DIOMPY
+Ford,2010,3500000,"Djily Mbaye, Dakar",250,Manuelle,Essence,Cheikh  SAMB
+Ford,2019,29500000,"Sicap Baobab, Dakar",51189,Automatique,Essence,Rose  DIOMPY
+Toyota,2017,15000000,"Pikine Ouest, Dakar",60000,Manuelle,Diesel,Mourtada Ndiaye
+Ford,2009,2200000,"Thiaroye, Dakar",100,Manuelle,Essence,GABYAUTO GAYE
+Citroen,2018,6200000,"Bode Lao, Saint-Louis",135788,Manuelle,Diesel,Akhmadou bamba  Diop
+Ford,2016,12500000,"Mermoz Sacré-Coeur, Dakar",77000,Automatique,Essence,DAKAR  LUXURY CARS
+Lincoln,2019,9500000,"Liberté 6, Dakar",,Automatique,Essence,Madame NDOYE
+Jeep,2013,3400000,"Parcelles Assainies, Dakar",1,Automatique,Essence,Crazy  Busness
+Toyota,2015,20000000,"Parcelles Assainies, Dakar",1,Manuelle,Diesel,MAGUETTE THIAM
+Range,2015,5500000,"Parcelles Assainies, Dakar",14500,Automatique,Essence,Crazy  Busness
+Peugeot,2007,2300000,"Pikine Ouest, Dakar",167000,Manuelle,Diesel,Mourtada Ndiaye
+Chevrolet,2013,2800000,"Gueule-Tapée, Fass, Colobane, Dakar",100000,Automatique,Essence,Papa Mody Diallo
+Hyundai,2014,6800000,"Guédiawaye, Dakar",136000,Automatique,Essence,Cisse  Ibou
+Hyundai,2017,13000000,"Liberté 6, Dakar",92000,Automatique,Essence,Mouhamed  Lo
+Ford,2007,1000000,"Cambérène, Dakar",175000,Manuelle,Diesel,Fodé  TRAORé
+Bmw,2014,9500000,"Médina, Dakar",100000,Automatique,Essence,Bachir Business  Service
+Hyundai,2011,4000000,"Guédiawaye, Dakar",2,Automatique,Essence,Bachir Business  Service
+Citroen,2014,5000000,"Amitié, Dakar",125678,Manuelle,Diesel,Bachir Business  Service
+Jeep,2016,7300000,"Plateau, Dakar",70000,Automatique,Essence,Rassoul Automobiles
+Kia,2016,11000000,"Mbour, Thiès",189000,Automatique,Diesel,Rassoul Automobiles
+Volvo,2017,1400000,"Grand-Dakar, Dakar",50000,Manuelle,Diesel,huazhiai  zhong
+Ford,2015,7500000,"Mamelles, Dakar",780000,Automatique,Essence,Aicha  Diallo
+Kia,2017,11000000,"Djily Mbaye, Dakar",100000,Automatique,Diesel,Fall Sy
+Ford,2009,5500000,"Plateau, Dakar",250000,Manuelle,Diesel,Rassoul Automobiles
+Chevrolet,2012,3500000,"Plateau, Dakar",155000,Automatique,Diesel,Rassoul Automobiles
+Hyundai,2019,7900000,"Liberté 6, Dakar",60272,Automatique,Essence,Moustapha KEBE
+Peugeot,2011,5000000,"VDN, Dakar",120000,Manuelle,Diesel,Yves TABOURDEAU
+Chevrolet,2011,2950000,"Golf, Dakar",1000000,Automatique,Essence,Marco Business
+Peugeot,2016,7600000,"Guédiawaye, Dakar",10000000,Manuelle,Diesel,Marco Business
+Ford,2017,8200000,"Dieuppeul Derklé, Dakar",100000000,Automatique,Essence,Marco Business
+Ford,2016,10800000,"Parcelles Assainies, Dakar",128000,Automatique,Essence,Mouhamed Moustapha  Sène

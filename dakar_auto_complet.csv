@@ -1,0 +1,201 @@
+categorie,,marque,annee,prix,adresse,kilometrage,boite_vitesse,carburant,proprietaire
+voitures,0,Citroen,2016,5000000,"Thiès, Thiès",150000,Manuelle,Diesel,Bintou Sylla
+voitures,1,Mitsubishi,2016,9500000,"VDN, Dakar",115000,Automatique,Essence,Sokhna Faty
+voitures,2,Renault,2013,4000000,"Sud Foire, Dakar",260000,Manuelle,Diesel,Gm DK
+voitures,3,Rover,2017,15499000,"Médina, Dakar",54000,Automatique,Essence,Chasseur  Automobile
+voitures,4,Ford,2013,3950000,"Sud Foire, Dakar",80000,Automatique,Essence,Fatou  Kiné
+voitures,5,Nissan,2007,2200000,"Cambérène, Dakar",,Automatique,Diesel,Vendeur .
+voitures,6,Hyundai,2020,5000000,"Biscuiterie, Dakar",86500,Automatique,Essence,MOURAD ENNAJY
+voitures,7,Hyundai,2016,4000000,"Thiakar, Diourbel",88000,Automatique,Essence,MOURAD ENNAJY
+voitures,8,Toyota,2014,19500000,"Yoff, Dakar",20500,Manuelle,Diesel,Cheikh Ahmed Tidiane  SY
+voitures,9,Nissan,2016,8500000,"Keur Massar, Dakar",138000,Automatique,Essence,Makhou Diagne
+voitures,10,Dacia,2018,5500000,"Grand-Dakar, Dakar",60000,Manuelle,Essence,Daouda Fall
+voitures,11,Ford,2016,7000000,"Patte d'oie, Dakar",98900,Automatique,Essence,Bintou Sylla
+voitures,12,Ford,2013,30000,"Gueule-Tapée, Fass, Colobane, Dakar",50000,Automatique,Essence,Easy_Trip_ Sen
+voitures,13,Peugeot,2020,12000000,"Sud Foire, Dakar",42000,Automatique,Diesel,Zam  Ndoye
+voitures,14,Volkswagen,2013,5500000,"Médina, Dakar",69000,Manuelle,Essence,Easy_Trip_ Sen
+voitures,15,Mazda,2007,2900000,"Sicap Foire, Dakar",160000,Automatique,Essence,Mamadou DIOP
+voitures,16,Hyundai,2015,6500000,"Liberté 6, Dakar",100000,Automatique,Essence,Cheikh  Mbacké
+voitures,17,Mitsubishi,2010,6500000,"Mbao, Dakar",172000,Manuelle,Diesel,Ibrahima DIEDHIOU
+voitures,18,Ford,2011,3300000,"Liberté 6, Dakar",150000,Automatique,Essence,Cheikh  Mbacké
+voitures,19,Ford,2011,4300,"Hlm, Dakar",140000,Automatique,Essence,Cheikh  Mbacké
+voitures,20,Peugeot,2016,4000000,"Sicap Dieuppeul, Dakar",100000,Automatique,Diesel,MOURAD ENNAJY
+voitures,21,Ford,2013,5200000,"Ouakam, Dakar",130000,Automatique,Essence,Yaya SOUMARE
+voitures,22,Kia,2013,4400000,"Liberté 6 extension, Dakar",94234,Automatique,Essence,francoise diouf
+voitures,23,Ford,2012,2800000,"Mbao, Dakar",120000,Automatique,Essence,Cheikh  Mbacké
+voitures,24,Jeep,2019,NC,"VDN, Dakar",10000,Manuelle,Diesel,Mouls Fall
+voitures,25,Hyundai,2016,5200000,"Grand-Dakar, Dakar",183633,Automatique,Essence,cheikh ndiaye
+voitures,26,Volkswagen,2018,15000000,"Scat Urbam, Dakar",190000,Automatique,Essence,Mouhamed Cisse
+voitures,27,Volkswagen,2013,5000000,"Gueule-Tapée, Fass, Colobane, Dakar",150000,Manuelle,Essence,Easy_Trip_ Sen
+voitures,28,Hyundai,2013,30000,"Gueule-Tapée, Fass, Colobane, Dakar",150000,Automatique,Essence,Easy_Trip_ Sen
+voitures,29,Hyundai,2018,10000000,"Grand-Yoff, Dakar",97000,Automatique,Essence,Papi Ndiaye
+voitures,30,Ford,2011,4500000,"Mamelles, Dakar",165508,Automatique,Essence,bara ndiaye
+voitures,31,Toyota,2020,13500000,"Rufisque, Dakar",50792,Automatique,Essence,cheikh ndiaye
+voitures,32,Peugeot,2022,14000000,"Point-E, Dakar",22000,Automatique,,Abdoul  Abdoul
+voitures,33,Ford,2012,2700000,"Parcelles Assainies, Dakar",156000,Automatique,Essence,Zal DIATTA
+voitures,34,Mercedes,2012,2500000,"Sokone, Fatick",150000,Automatique,Diesel,MBAYE Papa momar
+voitures,35,Mitsubishi,2011,7500000,"Yoff, Dakar",135000,Manuelle,Diesel,Atlys Atlys
+voitures,36,Volkswagen,2013,3000000,"Djily Mbaye, Dakar",110000,Automatique,Essence,Demba Badiane
+voitures,37,Ford,2013,4000000,"VDN, Dakar",120000,Automatique,Essence,Ndiaga Ndoye
+voitures,38,Toyota,2019,20000000,"Rufisque, Dakar",54000,Manuelle,Diesel,Ndiaga Ndoye
+voitures,39,Renault,2016,9500000,"Sicap Sacré Coeur, Dakar",79000,Automatique,Essence,Aziz  Pro
+voitures,40,Hyundai,2017,8500000,"Hann Maristes, Dakar",218,Automatique,Essence,Khadi Diop
+voitures,41,Kia,2016,7000000,"VDN, Dakar",84000,Automatique,Essence,joan-yves Darys  Anguilet
+voitures,42,Ford,2017,5000000,"Hlm, Dakar",17000,Automatique,Diesel,Mohamed Falilou FALL
+voitures,43,Chevrolet,2016,6000000,"Plateau, Dakar",1,Automatique,Essence,joan-yves Darys  Anguilet
+voitures,44,Toyota,1994,2000000,"Liberté 6 extension, Dakar",1230000,Manuelle,Diesel,Tapha KANE
+voitures,45,Chevrolet,2016,7000000,"Lac Rose, Dakar",98000,Automatique,Essence,Jeena Ba
+voitures,46,Mitsubishi,2010,7000000,"Mbao, Dakar",133333,Manuelle,Diesel,Ibrahima DIEDHIOU
+voitures,47,Toyota,2007,3800,"VDN, Dakar",1,Manuelle,Diesel,Mouhamed Gueye
+voitures,48,Mercedes,2013,8000000,"Touba, Diourbel",90008,Automatique,Diesel,Cherif  DIOP
+voitures,49,Toyota,2019,17500000,"Plateau, Dakar",1497,Automatique,Essence,Rassoul Automobiles
+voitures,50,Citroen,2010,2600000,"Thiaroye-sur-Mer, Dakar",100000,Manuelle,Diesel,GABYAUTO GAYE
+voitures,51,Ford,2013,6500000,"Plateau, Dakar",151000,Manuelle,Diesel,Rassoul Automobiles
+voitures,52,Fiat,2022,8000000,"Touba, Diourbel",31000,Manuelle,Essence,Dieng  Serigne
+voitures,53,Citroen,2012,3300000,"Mbao, Dakar",138000,Manuelle,Essence,Elhaj djiby  Thiam
+voitures,54,Kia,2017,11800000,"Yoff, Dakar",160000,Automatique,Diesel,INSA LAYE DIOP
+voitures,55,Hyundai,2017,12000000,"Plateau, Dakar",80000,Automatique,Diesel,Rassoul Automobiles
+voitures,56,Mercedes,2012,4500000,"VDN, Dakar",70000,Automatique,Essence,Cherif  DIOP
+voitures,57,Citroen,2017,6500000,"Plateau, Dakar",80000,Automatique,Diesel,Rassoul Automobiles
+voitures,58,Honda,2010,2500000,"Mbour, Thiès",198000,Manuelle,Essence,Rassoul Automobiles
+voitures,59,Peugeot,2008,4000000,"Ouakam, Dakar",190000,Manuelle,Diesel,Claire Dubroca
+voitures,60,Hyundai,2011,2800000,"Gueule-Tapée, Fass, Colobane, Dakar",180000,Automatique,Essence,ABDOULAYE DIALLO
+voitures,61,Hyundai,2016,5700000,"Sicap Dieuppeul, Dakar",190000,Automatique,Essence,Fallou MBAYE
+voitures,62,Bmw,2016,12200000,"Cité Keur gorgui, Dakar",1,Automatique,Essence,Rose  DIOMPY
+voitures,63,Range,2018,31000000,"Sicap Sacré Coeur, Dakar",61000,Automatique,Essence,Rose  DIOMPY
+voitures,64,Honda,2023,26000000,"Sicap Sacré Coeur, Dakar",19000,Automatique,Essence,Rose  DIOMPY
+voitures,65,Ford,2013,4000000,"Grand-Yoff, Dakar",170000,Automatique,Essence,TIDIANE BA
+voitures,66,Mazda,2018,15000000,"Point-E, Dakar",140000,Automatique,Diesel,Rose  DIOMPY
+voitures,67,Ford,2016,5900000,"Gueule-Tapée, Fass, Colobane, Dakar",102000,Automatique,Essence,Rose  DIOMPY
+voitures,68,Ford,2013,2200000,"Parcelles Assainies, Dakar",115000,Automatique,Essence,Rose  DIOMPY
+voitures,69,Ford,2010,3500000,"Djily Mbaye, Dakar",250,Manuelle,Essence,Cheikh  SAMB
+voitures,70,Ford,2019,29500000,"Sicap Baobab, Dakar",51189,Automatique,Essence,Rose  DIOMPY
+voitures,71,Toyota,2017,15000000,"Pikine Ouest, Dakar",60000,Manuelle,Diesel,Mourtada Ndiaye
+voitures,72,Ford,2009,2200000,"Thiaroye, Dakar",100,Manuelle,Essence,GABYAUTO GAYE
+voitures,73,Citroen,2018,6200000,"Bode Lao, Saint-Louis",135788,Manuelle,Diesel,Akhmadou bamba  Diop
+voitures,74,Ford,2016,12500000,"Mermoz Sacré-Coeur, Dakar",77000,Automatique,Essence,DAKAR  LUXURY CARS
+voitures,75,Lincoln,2019,9500000,"Liberté 6, Dakar",,Automatique,Essence,Madame NDOYE
+voitures,76,Jeep,2013,3400000,"Parcelles Assainies, Dakar",1,Automatique,Essence,Crazy  Busness
+voitures,77,Toyota,2015,20000000,"Parcelles Assainies, Dakar",1,Manuelle,Diesel,MAGUETTE THIAM
+voitures,78,Range,2015,5500000,"Parcelles Assainies, Dakar",14500,Automatique,Essence,Crazy  Busness
+voitures,79,Peugeot,2007,2300000,"Pikine Ouest, Dakar",167000,Manuelle,Diesel,Mourtada Ndiaye
+voitures,80,Chevrolet,2013,2800000,"Gueule-Tapée, Fass, Colobane, Dakar",100000,Automatique,Essence,Papa Mody Diallo
+voitures,81,Hyundai,2014,6800000,"Guédiawaye, Dakar",136000,Automatique,Essence,Cisse  Ibou
+voitures,82,Hyundai,2017,13000000,"Liberté 6, Dakar",92000,Automatique,Essence,Mouhamed  Lo
+voitures,83,Ford,2007,1000000,"Cambérène, Dakar",175000,Manuelle,Diesel,Fodé  TRAORé
+voitures,84,Bmw,2014,9500000,"Médina, Dakar",100000,Automatique,Essence,Bachir Business  Service
+voitures,85,Hyundai,2011,4000000,"Guédiawaye, Dakar",2,Automatique,Essence,Bachir Business  Service
+voitures,86,Citroen,2014,5000000,"Amitié, Dakar",125678,Manuelle,Diesel,Bachir Business  Service
+voitures,87,Jeep,2016,7300000,"Plateau, Dakar",70000,Automatique,Essence,Rassoul Automobiles
+voitures,88,Kia,2016,11000000,"Mbour, Thiès",189000,Automatique,Diesel,Rassoul Automobiles
+voitures,89,Volvo,2017,1400000,"Grand-Dakar, Dakar",50000,Manuelle,Diesel,huazhiai  zhong
+voitures,90,Ford,2015,7500000,"Mamelles, Dakar",780000,Automatique,Essence,Aicha  Diallo
+voitures,91,Kia,2017,11000000,"Djily Mbaye, Dakar",100000,Automatique,Diesel,Fall Sy
+voitures,92,Ford,2009,5500000,"Plateau, Dakar",250000,Manuelle,Diesel,Rassoul Automobiles
+voitures,93,Chevrolet,2012,3500000,"Plateau, Dakar",155000,Automatique,Diesel,Rassoul Automobiles
+voitures,94,Hyundai,2019,7900000,"Liberté 6, Dakar",60272,Automatique,Essence,Moustapha KEBE
+voitures,95,Peugeot,2011,5000000,"VDN, Dakar",120000,Manuelle,Diesel,Yves TABOURDEAU
+voitures,96,Chevrolet,2011,2950000,"Golf, Dakar",1000000,Automatique,Essence,Marco Business
+voitures,97,Peugeot,2016,7600000,"Guédiawaye, Dakar",10000000,Manuelle,Diesel,Marco Business
+voitures,98,Ford,2017,8200000,"Dieuppeul Derklé, Dakar",100000000,Automatique,Essence,Marco Business
+voitures,99,Ford,2016,10800000,"Parcelles Assainies, Dakar",128000,Automatique,Essence,Mouhamed Moustapha  Sène
+motos,0,Yamaha,2020,3900000,"Ouakam, Dakar",14000,,,Cheikh  Mbacké
+motos,1,Yamaha,2020,1200000,"Yoff, Dakar",10000,,,Mohamed SALL
+motos,2,Honda,2014,1150000,"Grand-Dakar, Dakar",55000,,,Mohamed  Memed
+motos,3,Piaggio,2012,490000,"Parcelles Assainies, Dakar",1,,,Djibril  Ba
+motos,4,Aprilia,2018,300000,"Grand-Dakar, Dakar",150,,,Ibrahim  Sarr
+motos,5,BMW,2019,4900000,"Sicap Liberté, Dakar",20000,,,DS Bikers  Coffee
+motos,6,BMW,2021,2500000,"Sicap Liberté, Dakar",17000,,,DS Bikers  Coffee
+motos,7,Ducati,2024,7900000,"Sicap Liberté, Dakar",500,,,DS Bikers  Coffee
+motos,8,BMW,2023,4900000,"Sicap Liberté, Dakar",7000,,,DS Bikers  Coffee
+motos,9,BMW,2023,6900000,"Sicap Liberté, Dakar",2000,,,DS Bikers  Coffee
+motos,10,BMW,2022,5500000,"Sicap Liberté, Dakar",17000,,,DS Bikers  Coffee
+motos,11,BMW,2020,3500000,"Sicap Liberté, Dakar",4000,,,DS Bikers  Coffee
+motos,12,Ducati,2017,2500000,"Sicap Liberté, Dakar",13000,,,DS Bikers  Coffee
+motos,13,BMW,2023,4900000,"Sicap Liberté, Dakar",9000,,,DS Bikers  Coffee
+motos,14,Honda,2023,3900000,"Sicap Liberté, Dakar",14000,,,DS Bikers  Coffee
+motos,15,BMW,2023,5900000,"Sicap Liberté, Dakar",3000,,,DS Bikers  Coffee
+motos,16,BMW,2020,5900000,"Sicap Liberté, Dakar",20000,,,DS Bikers  Coffee
+motos,17,BMW,2020,5500000,"Sicap Liberté, Dakar",17000,,,DS Bikers  Coffee
+motos,18,BMW,2023,5900000,"Sicap Liberté, Dakar",500,,,DS Bikers  Coffee
+motos,19,BMW,2021,2500000,"Sicap Liberté, Dakar",17000,,,DS Bikers  Coffee
+motos,20,BMW,2023,5900000,"Sicap Liberté, Dakar",3000,,,DS Bikers  Coffee
+motos,21,Beverly,2016,1600000,"Hann Bel-Air, Dakar",52917,,,Abdallah Sarr
+motos,22,Honda,2016,375000,"Sicap Liberté, Dakar",15000,,,Tony  Massaly
+motos,23,Honda,2023,1900000,"Plateau, Dakar",14000,,,Moise Moise
+motos,24,Honda,2019,650000,"Mbao, Dakar",1,,,Cheikh Seye
+motos,25,KTM,2021,350000,"Point-E, Dakar",1000,,,pape diop
+motos,26,KTM,2015,1400000,"Guédiawaye, Dakar",1,,,Ousi G
+motos,27,Yamaha,2012,2350000,"VDN, Dakar",101000,,,Cheikh Tidiane Ndiaye
+motos,28,Yamaha,2012,2300000,"VDN, Dakar",98000,,,Cheikh Tidiane Ndiaye
+motos,29,Yamaha,2012,2350000,"VDN, Dakar",98000,,,Cheikh Tidiane Ndiaye
+motos,30,Piaggio,2020,320000,"Hann Maristes, Dakar",2533,,,doul ba
+motos,31,Peugeot,2022,350000,"Scat Urbam, Dakar",1000,,,ABDOULAYE  SIDIBE
+motos,32,Kymco,2020,400000,"Sipres, Dakar",390,,,Ahmed Sow
+motos,33,Kymco,2017,450000,"Hann Bel-Air, Dakar",25000,,,Mouhamed Niang
+motos,34,Piaggio,2011,400000,"Ouest Foire, Dakar",250,,,Fallou Gueye
+motos,35,Piaggio,2009,550000,"Kaolack, Kaolack",51122,,,Abdoulaye  WELE
+motos,36,Kymco,2021,1800000,"Mamelles, Dakar",20000,,,MAME CHEIKH
+motos,37,KTM,2013,1850000,"Thiaroye, Dakar",21500,,,Christian  Faye
+motos,38,KTM,2023,350000,"Point-E, Dakar",10000,,,Cheikh Toure
+motos,39,Kymco,2021,380000,"Hann Maristes, Dakar",56586,,,Max2roues Diaw
+motos,40,Kymco,2019,150,"Keur Massar, Dakar",150,,,Boubacar  Seydi
+motos,41,Triumph,2000,1600000,"Sicap Sacré Coeur, Dakar",64000,,,Jean philipp Coly
+motos,42,Suzuki,1994,1200000,"Sicap Sacré Coeur, Dakar",56500,,,Jean philipp Coly
+motos,43,BMW,2015,3500000,"Keur Massar, Dakar",29590,,,Babacar Dramé
+motos,44,Peugeot,2019,750000,"Biscuiterie, Dakar",6000,,,Abdoul  Diop
+motos,45,Yamaha,2006,700000,"Sicap Liberté, Dakar",78000,,,Mathieu  Sagna
+motos,46,Suzuki,2021,1300000,"Nord Foire, Dakar",63000,,,LodiaMiff  Deals
+motos,47,Kymco,2021,1900000,"Liberté 6 extension, Dakar",5000,,,Al  Amine
+motos,48,Honda,2018,3600000,"Plateau, Dakar",11900,,,HONDA AFRICA TWIN CRF1000
+motos,49,Yamaha,2019,2500000,"Golf, Dakar",57000,,,Abdou LO
+motos,50,Yamaha,2019,2400000,"Golf, Dakar",1,,,Abdou LO
+motos,51,Piaggio,2018,350000,"Plateau, Dakar",15,,,Karim  Saleh
+motos,52,Honda,2016,800000,"Cambérène, Dakar",500,,,MAGUETTE THIAM
+motos,53,Yamaha,2012,1800000,"Pikine Nord, Dakar",83000,,,Cheikh tidiane  Diop
+motos,54,Yamaha,2018,2500000,"Saint-Louis, Saint-Louis",37000,,,Abdou Latif Sy
+motos,55,Yamaha,2021,4500000,"Hann Maristes, Dakar",23000,,,Mr FAYE
+motos,56,Suzuki,2022,350000,"Gueule-Tapée, Fass, Colobane, Dakar",20000,,,Beugue BAMBA
+motos,57,Kymco,2017,175000,"Guédiawaye, Dakar",150000,,,Seydou BA
+motos,58,Kawasaki,2018,1500000,"Hann Maristes, Dakar",1,,,Mr ASSANE
+motos,59,Honda,2021,3500000,"Parcelles Assainies, Dakar",9000,,,Paname Export  BOUTIQUE
+motos,60,Piaggio,2018,14000000,"Guédiawaye, Dakar",1,,,Mansour GUEYE
+motos,61,Yamaha,2020,600000,"Keur Massar, Dakar",1,,,Mr BERNARD
+motos,62,Yamaha,2020,1600000,"Mamelles, Dakar",11000,,,Amadou Xmax
+motos,63,Piaggio,2018,1500000,"Gueule-Tapée, Fass, Colobane, Dakar",1,,,Abdou NDIAYE
+motos,64,Yamaha,2008,1400000,"Guédiawaye, Dakar",1,,,Mansour GUEYE
+motos,65,Yamaha,2018,1600000,"Liberté 6 extension, Dakar",1,,,Al  Amine
+motos,66,Piaggio,2010,330000,"Cité Keur gorgui, Dakar",121000,,,Mike BORIS
+motos,67,Piaggio,2017,450000,"Guédiawaye, Dakar",300,,,Sarenzo Sarenzo
+motos,68,Honda,2012,550000,"Ouakam, Dakar",98000,,,VPS  SERVICES
+motos,69,KTM,2021,4300000,"Hann Maristes, Dakar",20000,,,"Babs Motos,  Scooters"
+motos,70,Yamaha,2011,390000,"Mermoz Sacré-Coeur, Dakar",28000,,,Usman Diop
+motos,71,Yamaha,2021,700,"Mbacke, Diourbel",5000,,,Saliou DIOUF
+motos,72,Beverly,2016,250000,"Yeumbeul Nord, Dakar",23789,,,Gueye  Kilifa
+motos,73,Yamaha,2016,1000000,"Sicap Dieuppeul, Dakar",42000,,,Papa lamine Diawara
+motos,74,Piaggio,2017,280000,"Ziguinchor, Ziguinchor",250,,,Zahra sarr
+motos,75,Yamaha,2019,1200000,"Amitié, Dakar",1,,,mohammed MOHAMMED
+motos,76,Honda,2015,480000,"Rufisque, Dakar",1111,,,Company COMPANY
+motos,77,BMW,2015,3500000,"Cité Avion, Dakar",29000,,,Pape Alassane  NDOYE
+motos,78,Honda,2016,700000,"Tivaouane Peulh, Dakar",23027,,,Diakhite DIAKHITE
+motos,79,Piaggio,2018,600000,"Grand-Yoff, Dakar",1,,,Mame Mor  GAYE
+motos,80,Aprilia,2005,650000,"Patte d'oie, Dakar",1500,,,Boubacar Diaw
+motos,81,Kymco,2010,650000,"Thiès, Thiès",10000,,,Sidibe SIDIBE
+motos,82,Yamaha,2021,1730000,"Fann, Dakar",1,,,Adam  Ahmed
+motos,83,Honda,2021,2200000,"Fann, Dakar",4900,,,Adam  Ahmed
+motos,84,KTM,2022,2850000,"Fann, Dakar",2000,,,Adam  Ahmed
+motos,85,Honda,2020,550000,"Mermoz Sacré-Coeur, Dakar",167,,,KOUWAGNE BUSINESS ENTREPRISE
+motos,86,Honda,2018,1100000,"Plateau, Dakar",30000,,,KOUWAGNE BUSINESS ENTREPRISE
+motos,87,Honda,2018,2000000,"Cité Keur gorgui, Dakar",39000,,,Fode Tra
+motos,88,Kawasaki,2021,2700000,"Almadies, Dakar",1,,,sa keur immobilier .
+motos,89,Yamaha,2006,700000,"Zone Industrielle, Dakar",1,,,Myki O
+motos,90,Aprilia,2005,250000,"Mermoz Sacré-Coeur, Dakar",1,,,KOUWAGNE BUSINESS ENTREPRISE
+motos,91,Gilera,2021,350000,"Mermoz Sacré-Coeur, Dakar",120,,,KOUWAGNE BUSINESS ENTREPRISE
+motos,92,Piaggio,2020,300000,"Mermoz Sacré-Coeur, Dakar",120,,,KOUWAGNE BUSINESS ENTREPRISE
+motos,93,Piaggio,2018,1100000,"Almadies, Dakar",30000,,,Cheikh Omar  sow
+motos,94,Honda,2022,1350000,"Fann, Dakar",1700,,,Adam  Ahmed
+motos,95,Honda,2021,2200000,"Fann, Dakar",4900,,,Adam  Ahmed
+motos,96,BMW,2022,4500000,"Fann, Dakar",3000,,,Adam  Ahmed
+motos,97,Piaggio,2017,1000000,"Sicap Dieuppeul, Dakar",7000,,,Mame cheikh  Ly
+motos,98,Piaggio,2016,550000,"Guédiawaye, Dakar",1,,,Seydou Ba
+motos,99,Piaggio,2019,340000,"Plateau, Dakar",3400,,,RAJI  ISSA
