@@ -23,6 +23,7 @@ def dashboard():
     # Vérifier si les fichiers de données existent
     if os.path.exists("dakar_auto_complet.csv"):
         df = pd.read_csv("dakar_auto_complet.csv")
+        df["prix"] = pd.to_numeric(df["prix"], errors="coerce")
         st.write("### Aperçu des données")
         st.dataframe(df.head())
         
