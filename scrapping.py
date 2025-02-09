@@ -39,7 +39,7 @@ def scrape_category(category_name, url_base, columns):
         # Requête HTTP avec User-Agent pour éviter d'être détecté comme bot
         headers = {"User-Agent": "Mozilla/5.0"}
         response = requests.get(url, headers=headers)
-
+        
         if response.status_code != 200:
             print(f"🔴 Fin du scraping pour {category_name} (plus de pages disponibles).")
             break
@@ -135,7 +135,7 @@ def scraper_all():
     # Fusionner toutes les données
     df_combined = pd.concat(all_data.values(), keys=all_data.keys(), names=["categorie"])
     df_combined.to_csv("dakar_auto_complet_all.csv", index=True)
-    print("🎯 Scraping terminé et fichier consolidé sauvegardé sous 'dakar_auto_complet.csv'.")
+    print("🎯 Scraping terminé et fichier consolidé sauvegardé sous 'dakar_auto_complet_all.csv'.")
 
 # Fonction de scraping
 def scraper(selected_categories, num_pages):
@@ -224,3 +224,5 @@ def scraper(selected_categories, num_pages):
     df_combined = pd.concat(all_data.values(), keys=all_data.keys(), names=["categorie"])
     df_combined.to_csv("dakar_auto_complet.csv", index=True)
     print("🎯 Scraping terminé et fichier consolidé sauvegardé sous 'dakar_auto_complet.csv'.")
+
+#scraper_all()
