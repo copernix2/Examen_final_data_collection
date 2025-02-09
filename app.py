@@ -1,8 +1,9 @@
 import streamlit as st
 import pandas as pd
 import os
+import seaborn as sns
 from scrapping import scraper  # Import du script de scraping
-import plotly.express as px  # Ajout pour des graphiques interactifs
+#import plotly.express as px  # Ajout pour des graphiques interactifs
 import matplotlib.pyplot as plt
 # Configuration de l'application
 st.set_page_config(page_title="Dakar Auto Scraper", layout="wide")
@@ -63,29 +64,29 @@ def dashboard():
     st.write("### 📌 Résultats après filtrage")
     st.dataframe(filtered_df)
 
-    # **Graphiques interactifs**
-    st.write("### 📊 Analyse des Prix")
+    # **Visualisation des données**
+    st.write("### 📊 Visualisation des données")
+    # **Histogramme pour analyser la distribution des prix**
+    st.write("### 📊 Distribution des Prix")    
+    fig, ax = plt.subplots()
+    sns.histplot(filtered_df["prix"], kde=True, ax=ax)
+    ax.set_title("Distribution des Prix")
+    st.pyplot(fig)
 
-    # Graphique avec Plotly
-    fig = px.histogram(filtered_df, x="prix", nbins=30, title="Répartition des Prix")
-    st.plotly_chart(fig)
+    # Graphique avec Seaborn
+    st.write("### Statistiques des Prix")
+    fig, ax = plt.subplots()
+    sns.barplot(x=df["categorie"], y=df["prix"], ax=ax)
+    plt.xticks(rotation=45)
+    st.pyplot(fig)
 
-    # **Nombre d'annonces par catégorie**
-    st.write("### 📈 Nombre d'annonces par catégorie")
-    category_counts = df["categorie"].value_counts()
-    fig = px.bar(category_counts, x=category_counts.index, y=category_counts.values, title="Nombre d'annonces par catégorie")
-    st.plotly_chart(fig)
+    st.write("### Nombre d'annonces par catégorie")
+    fig, ax = plt.subplots()
+    sns.countplot(x=df["categorie"], ax=ax)
+    plt.xticks(rotation=45)
+    st.pyplot(fig)
 
-    # **Prix moyen par catégorie**
-    st.write("### 💰 Prix moyen par catégorie")
-    avg_prices = df.groupby("categorie")["prix"].mean().sort_values(ascending=False)
-    fig = px.bar(avg_prices, x=avg_prices.index, y=avg_prices.values, title="Prix moyen des véhicules par catégorie")
-    st.plotly_chart(fig)
-
-    # **Boîte à moustaches pour analyser la répartition des prix**
-    st.write("### 📊 Distribution des Prix par Catégorie")
-    fig = px.box(filtered_df, x="categorie", y="prix", title="Distribution des Prix par Catégorie")
-    st.plotly_chart(fig)
+    
 # --- PAGE 2 : SCRAPER LES DONNÉES ---
 def scrape_page():
     st.title("📡 Scraper les données")
