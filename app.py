@@ -11,12 +11,16 @@ st.set_page_config(page_title="Dakar Auto Scraper", layout="wide")
 # Définition des pages disponibles
 def main():
     st.sidebar.title("📌 Navigation")
-    page = st.sidebar.radio("Aller à", ["📊 Dashboard", "📡 Scraper des données"])
+    page = st.sidebar.radio("Aller à", ["📊 Dashboard", "📡 Scraper des données", "📥 Télécharger les données", "📝 Évaluer l'application"])
     
     if page == "📊 Dashboard":
         dashboard()
     elif page == "📡 Scraper des données":
         scrape_page()
+    elif page == "📥 Télécharger les données":
+        download_page()
+    elif page == "📝 Évaluer l'application":
+        evaluation_page()
 
 # --- PAGE 1 : DASHBOARD ---
 def dashboard():
@@ -109,6 +113,82 @@ def scrape_page():
             df = pd.read_csv("dakar_auto_complet.csv")
             st.write("### Aperçu des nouvelles données")
             st.dataframe(df.head())
+
+# --- PAGE 3 : TÉLÉCHARGER LES DONNÉES ---
+def download_page():
+    st.title("📥 Télécharger les données complètes")
+
+    # Vérifier si le fichier de données existe
+    data_file = "dakar_auto_complet.csv"
+
+    if os.path.exists(data_file):
+        df_complet = pd.read_csv(data_file)
+
+        st.write("### 📊 Aperçu des données complètes")
+        st.dataframe(df_complet.head())  # Affiche les 5 premières lignes
+
+        # Bouton pour télécharger les données complètes
+        st.download_button(
+            label="📂 Télécharger les données complètes",
+            data=df_complet.to_csv(index=False).encode("utf-8"),
+            file_name="dakar_auto_complet.csv",
+            mime="text/csv"
+        )
+    else:
+        st.warning("🚨 Aucune donnée complète trouvée. Veuillez d'abord effectuer un scraping.")
+def evaluation_page():
+    st.title("📝 Évaluation de l'Application")
+
+    # Champs du formulaire
+    nom = st.text_input("👤 Votre Nom")
+    email = st.text_input("📧 Votre Email")
+    satisfaction = st.slider("🌟 Niveau de Satisfaction (0 = Mauvais, 10 = Excellent)", 0, 10, 5)
+    commentaire = st.text_area("✍️ Partagez votre avis")
+
+    # Fichier où stocker les évaluations
+    eval_file = "evaluations.csv"
+
+    # Bouton d'envoi
+    if st.button("📩 Envoyer l'évaluation"):
+        eval_data = pd.DataFrame([[nom, email, satisfaction, commentaire]],
+                                 columns=["Nom", "Email", "Satisfaction", "Commentaire"])
+        
+        if os.path.exists(eval_file):
+            eval_data.to_csv(eval_file, mode='a', header=False, index=False, encoding="utf-8")
+        else:
+            eval_data.to_csv(eval_file, index=False, encoding="utf-8")
+
+        st.success("✅ Merci pour votre retour ! Votre évaluation a été enregistrée.")
+
+    # Vérifier si des évaluations existent
+    if os.path.exists(eval_file):
+        df_eval = pd.read_csv(eval_file)
+
+        # Calcul du score moyen
+        if not df_eval.empty:
+            moyenne_satisfaction = df_eval["Satisfaction"].mean()
+            st.subheader(f"🌟 Score moyen : {moyenne_satisfaction:.1f}/10")
+            
+            # Affichage des étoiles ⭐⭐⭐⭐⭐
+            nb_etoiles = int(round(moyenne_satisfaction / 2))  # Convertir en étoiles sur 5
+            st.write("⭐" * nb_etoiles + "☆" * (5 - nb_etoiles))  # Afficher les étoiles
+
+            # Afficher toutes les évaluations
+            st.write("### 📜 Évaluations des utilisateurs")
+            st.dataframe(df_eval)
+
+            # Bouton pour télécharger les évaluations
+            st.download_button(
+                label="📂 Télécharger les évaluations",
+                data=df_eval.to_csv(index=False).encode("utf-8"),
+                file_name="evaluations.csv",
+                mime="text/csv"
+            )
+        else:
+            st.warning("😞 Aucune évaluation enregistrée pour l'instant.")
+    else:
+        st.warning("📭 Aucune évaluation disponible. Soyez le premier à donner votre avis !")
+
 
 if __name__ == "__main__":
     main()
