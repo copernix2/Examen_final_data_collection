@@ -225,4 +225,3 @@ def scraper(selected_categories, num_pages):
     df_combined.to_csv("dakar_auto_complet.csv", index=True)
     print("🎯 Scraping terminé et fichier consolidé sauvegardé sous 'dakar_auto_complet.csv'.")
 
-#scraper_all()

@@ -137,7 +137,8 @@ def download_page():
     else:
         st.warning("🚨 Aucune donnée complète trouvée. Veuillez d'abord effectuer un scraping.")
 def evaluation_page():
-    st.title("📝 Évaluation de l'Application")
+    st.markdown("[Formulaire sous Kobo](https://ee.kobotoolbox.org/x/XVoXZ2fJ)")
+    st.title("📝 Évaluation de l'Application ")
 
     # Champs du formulaire
     nom = st.text_input("👤 Votre Nom")
